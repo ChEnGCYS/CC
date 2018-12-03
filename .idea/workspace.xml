@@ -9,7 +9,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f72f99e0-dbcb-49ff-8203-e7ab9bb53752" name="Default Changelist" comment="" />
+    <list default="true" id="f72f99e0-dbcb-49ff-8203-e7ab9bb53752" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/itrip-beans/target/" />
     <ignored path="$PROJECT_DIR$/itrip-dao/target/" />
@@ -204,7 +206,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543806537276" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543807102042" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -348,12 +350,12 @@
       <workItem from="1543714119853" duration="630000" />
       <workItem from="1543737005023" duration="2270000" />
       <workItem from="1543797960745" duration="2764000" />
-      <workItem from="1543800863029" duration="5137000" />
+      <workItem from="1543800863029" duration="5675000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30116000" />
+    <option name="totallyTimeSpent" value="30654000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
